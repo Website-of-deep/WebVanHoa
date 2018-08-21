@@ -8,6 +8,11 @@
 }
 /*
 body{
+<<<<<<< HEAD:style.css
 	background: blue;
 }
 */
+=======
+	background: #d7f9ff;
+}
+>>>>>>> 18b2e9b2fb7c5089f9ac235885e715945c348cb3:css/style.css
