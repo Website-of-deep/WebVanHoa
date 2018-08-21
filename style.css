@@ -6,12 +6,15 @@
 	padding-top: 25px;
 	padding-left: 60px;
 }
+.header .row{
+	padding-left: 220px;
+	padding-right: 374px;
+}
+.header{
+	padding-top: 300px;
+}
 /*
 body{
-<<<<<<< HEAD:style.css
 	background: blue;
 }
 */
-=======
-	background: #d7f9ff;
-}
