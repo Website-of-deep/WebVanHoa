@@ -6,12 +6,6 @@
 	padding-top: 25px;
 	padding-left: 60px;
 }
-/*
-body{
-<<<<<<< HEAD:style.css
-	background: blue;
-}
-*/
-=======
-	background: #d7f9ff;
+.container{
+	background-image: url("img/bg.jpg");
 }
